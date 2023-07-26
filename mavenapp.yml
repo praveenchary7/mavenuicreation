@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: mavenuiappcontainer
-          image: 8329557283/mavenjavaui
+          image: praveenchary/newdocker
           ports:
             - containerPort: 8080
 ---
